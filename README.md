@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is useful for um idk
+1. hello
+2. hi
+3. hui
+   hi
+   fd
+   f
+   d
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Just a demo ugh
 
 ## Getting started
 
