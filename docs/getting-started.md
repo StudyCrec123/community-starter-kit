@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hey mate! welcome to this repository, this is your user documentation, you will cover many topics over here. 
